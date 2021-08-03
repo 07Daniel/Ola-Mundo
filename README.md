@@ -2,4 +2,4 @@
  Primeiro repositório versionado.
 
  
- Repositorio criado durante uma aula.
+ Repositório criado durante uma aula.
